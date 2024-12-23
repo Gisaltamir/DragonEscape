@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/Map.unity
+    guid: a539fd6d456af014fa73b5c97daed58e
+  - enabled: 0
+    path: Assets/Scenes/LoadingScene.unity
+    guid: 0447819d688a9284190ef077ae24055d
+  - enabled: 1
+    path: Assets/Scenes/Settings.unity
+    guid: 3fa7b470f66c6cc4ba60e15dfd460442
+  - enabled: 1
+    path: Assets/Scenes/Pits/Pits.unity
+    guid: a57c2f725e9b78846a55a6683ff0c060
+  - enabled: 1
+    path: Assets/Scenes/Pits/Pits1.unity
+    guid: 472eb918ddc6bca46988c2d23918065a
+  - enabled: 1
+    path: Assets/Scenes/Pits/Pits2.unity
+    guid: f9e38921cea2dbe41884ecdc475298df
+  - enabled: 1
+    path: Assets/Scenes/Pits/Pits3.unity
+    guid: 42dd18f0af29cd04bb5523880710507e
+  - enabled: 1
+    path: Assets/Scenes/Pits/Pits4.unity
+    guid: 5b363f26d39639144a22bcd33bbf04fd
+  - enabled: 1
+    path: Assets/Scenes/Spikes/Spikes.unity
+    guid: 5b0a2f804d1b6cf4f8d7515a5c2fa657
+  - enabled: 1
+    path: Assets/Scenes/Spikes/Spikes1.unity
+    guid: 5b81b53288b5ee54c84e2f095f5fd8d3
+  - enabled: 1
+    path: Assets/Scenes/Spikes/Spikes2.unity
+    guid: ff489eaf955694c47875d3642a50619d
+  - enabled: 1
+    path: Assets/Scenes/Spikes/Spikes3.unity
+    guid: 629984c99aefa684bb1d79931b798d50
+  - enabled: 1
+    path: Assets/Scenes/Spikes/Spikes4.unity
+    guid: 516f06fbf76b08142b28f09375c2ec45
+  - enabled: 1
+    path: Assets/Scenes/Coins/Coins.unity
+    guid: fccedcf126a6e734a8630f94ead8d093
+  - enabled: 1
+    path: Assets/Scenes/Coins/Coins1.unity
+    guid: 8b0df11012ee1334fbc03e101d4a9601
+  - enabled: 1
+    path: Assets/Scenes/Coins/Coins2.unity
+    guid: 722256c4ae0aa8a4fa1dd4a0d479c63d
+  - enabled: 1
+    path: Assets/Scenes/Coins/Coins3.unity
+    guid: a41ea0df408145c47ba8bece2dc55c07
+  - enabled: 1
+    path: Assets/Scenes/Coins/Coins4.unity
+    guid: 66f35eb92a2d52a44b3b9e0e4b37151a
+  - enabled: 1
+    path: Assets/Scenes/Controls/Controls.unity
+    guid: 2d1b4a953c4e04c4c87de3260d387369
+  - enabled: 1
+    path: Assets/Scenes/Controls/Controls1.unity
+    guid: 8f56ab3b318d33a4ca50289fa21c413a
+  - enabled: 1
+    path: Assets/Scenes/Controls/Controls2.unity
+    guid: e3084b1557ca4034ea5463e2890b5182
+  - enabled: 1
+    path: Assets/Scenes/Controls/Controls3.unity
+    guid: 8d37169b45f7043408f5def4be3d709d
+  - enabled: 1
+    path: Assets/Scenes/Controls/Controls4.unity
+    guid: 01e34f4050a97684e8cf61762652e69a
+  - enabled: 1
+    path: Assets/Scenes/Doors/Doors.unity
+    guid: 366fec13840ebd44f9134088a89e41f2
+  - enabled: 1
+    path: Assets/Scenes/Doors/Doors1.unity
+    guid: 724a600861ba09841b08f47d36aca0f8
+  - enabled: 1
+    path: Assets/Scenes/Doors/Doors2.unity
+    guid: cfa6d47fad2d34744b9cabe54dc95ae0
+  - enabled: 1
+    path: Assets/Scenes/Doors/Doors3.unity
+    guid: 54d90f46b70a2454bb0f7306c03b4ffd
+  - enabled: 1
+    path: Assets/Scenes/Doors/Doors4.unity
+    guid: 9dba96eafc2944349a6db339b0bf2a1f
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: 762afea5343524246b75ba131edc7e22
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0

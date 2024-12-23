@@ -1,0 +1,11 @@
+/Library/
+/Temp/
+/Logs/
+/UserSettings/
+/Build/
+*.crash
+*.tmp
+*.bak
+*.swp
+.vs/
+/Assets/**/*.meta
